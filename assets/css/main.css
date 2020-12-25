@@ -3,6 +3,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: Lato, sans-serif;
   font-weight: 300;
@@ -483,7 +487,6 @@ nav {
   top: 0;
   width: 100%;
   z-index: 100;
-  display: none;
 }
 
 nav ul {
