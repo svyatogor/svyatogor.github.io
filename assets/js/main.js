@@ -47,7 +47,7 @@ var surveyJSON = {
   {
    "type": "comment",
    "name": "projectDescription",
-   "title": "Tell me about about the project you'd like to hire me for",
+   "title": "Tell me about about your project",
    "isRequired": true
   },
   {
@@ -73,14 +73,14 @@ var surveyJSON = {
   {
    "type": "text",
    "name": "email",
-   "title": "What is your contact email?",
+   "title": "Your contact email?",
    "isRequired": true,
    "inputType": "email",
   },
   {
    "type": "text",
    "name": "name",
-   "title": "What is your name or company name?"
+   "title": "Your name or company name?"
   }
  ]
 }
